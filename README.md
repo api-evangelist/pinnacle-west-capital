@@ -8,4 +8,4 @@ No APIs have been documented yet. Check back for updates.
 
 ## Properties
 
-- [Website](https://www.pinnacle-west-capital.com)
+- [Website](https://www.pinnaclewest.com)
