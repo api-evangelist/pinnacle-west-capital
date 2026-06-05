@@ -1,4 +1,6 @@
 aid: pinnacle-west-capital
+tags:
+  - Fortune 1000
 url: 
   https://raw.githubusercontent.com/api-evangelist/pinnacle-west-capital/refs/heads/main/apis.yml
 modified: '2026-04-28'
