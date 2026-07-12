@@ -6,6 +6,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/pinnacle-west-capital-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pinnacle-west-capital-corp
   - type: Website
